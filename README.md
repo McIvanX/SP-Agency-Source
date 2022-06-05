@@ -12,3 +12,7 @@ So this is a discord anti-nuke (security) bot source code, leaked by me.
 Its called SP Agency.
 
 ![spimgsrc](https://user-images.githubusercontent.com/70647891/172052163-f9aa7ec9-ab1b-4262-abdd-12506815a8bb.PNG)
+
+
+Discord:
+https://discord.gg/Y4CFtcqTW8
